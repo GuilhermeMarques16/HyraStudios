@@ -1,2 +1,3 @@
 # HyraStudios
-site para trabalho escoalr
+site para trabalho escolar
+
